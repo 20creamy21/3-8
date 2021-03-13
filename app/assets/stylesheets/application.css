@@ -47,3 +47,17 @@ th {
     font-weight: bold;
     text-align: -internal-center;
 }
+
+.inlineblock {
+    display: flex;
+    text-align: center;
+}
+
+.Show-Edit {
+    padding-right: 5px;
+    border-right: solid 1px;
+}
+
+.Show-Back {
+    padding-left: 5px;
+}
